@@ -12,6 +12,11 @@ const apartments = [
         contactDetails: {
             name: "Douglas",
             email: "doug@less.com"
+        },
+        features: {
+            AC: true,
+            Elevator: false,
+            IndoorPlumbing: true
         }
     },
     {
@@ -24,6 +29,11 @@ const apartments = [
         contactDetails: {
             name: "William",
             email: "will@i.am"
+        },
+        features: {
+            AC: true,
+            Elevator: true,
+            IndoorPlumbing: true
         }
     },
     {
@@ -36,6 +46,11 @@ const apartments = [
         contactDetails: {
             name: "Rickay",
             email: "rrrrick@cucumber.com"
+        },
+        features: {
+            AC: false,
+            Elevator: false,
+            IndoorPlumbing: false
         }
     },
     {
@@ -48,6 +63,11 @@ const apartments = [
         contactDetails: {
             name: "Charles",
             email: "charles.smith@coldmail.com"
+        },
+        features: {
+            AC: true,
+            Elevator: false,
+            IndoorPlumbing: true
         }
     },
     {
@@ -60,6 +80,11 @@ const apartments = [
         contactDetails: {
             name: "Trevor",
             email: "t@noah.ark"
+        },
+        features: {
+            AC: true,
+            Elevator: false,
+            IndoorPlumbing: false
         }
     }
 ]
